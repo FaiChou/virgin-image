@@ -1,0 +1,10 @@
+{
+  "name": "Virgin Image",
+  "description": "To get the original image on 1688",
+  "version": "1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
