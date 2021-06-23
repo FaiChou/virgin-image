@@ -2,7 +2,7 @@
   "name": "Virgin Image",
   "description": "To get the original image on 1688",
   "version": "1",
-  "permissions": ["contextMenus"],
+  "permissions": ["contextMenus", "tabs"],
   "background": {
     "scripts": ["background.js"]
   },
